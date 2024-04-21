@@ -1,0 +1,30 @@
+/* Reseteo de propiedades */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Colores usados */
+.darkpurple {
+  background-color: #3d30a2;
+}
+
+.purple {
+  background-color: #b15eff;
+}
+
+.orange {
+  background-color: #ffa33c;
+}
+
+.yellow {
+  background-color: #fffb73;
+}
+
+/* Estilos, en general */
+
+.social-media {
+  width: 30px;
+  height: 30px;
+}
